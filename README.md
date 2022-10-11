@@ -34,7 +34,7 @@
 </div>
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=faozziyyah&theme=monokai&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sunday-gad&theme=monokai&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -53,9 +53,6 @@
   <h3 align="left">Connect with me:</h3>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://twitter.com/sundaygad?s=08">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
