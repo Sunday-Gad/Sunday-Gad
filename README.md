@@ -63,9 +63,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sunday-gad&theme=monokai)](https://git.io/streak-stats)
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sundaygad&show_icons=true&include_all_commits=true&theme=gruvbox" alt="Anurag's github stats" />
-</a> <br> <br>
+ 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunday-gad&layout=compact&theme=material-palenight&border_color=61dafb&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a" />
