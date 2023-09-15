@@ -1,6 +1,6 @@
 ### Hi there 👋
   ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=plastic)
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=faozziyyah.faozziyyah")
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sunday-gad")
 
   I'm a website developer with much passion for design and technology. <br>
   I'm willing to improve my skills through team work and constant learning with practice.
