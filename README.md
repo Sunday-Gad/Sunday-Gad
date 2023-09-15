@@ -1,5 +1,5 @@
 ### Hi there 👋
-  ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=plastic)
+  ![](https://komarev.com/ghpvc/?username=Sunday-Gad&color=blueviolet&style=plastic)
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sunday-gad")
 
   I'm a website developer with much passion for design and technology. <br>
